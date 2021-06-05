@@ -21,6 +21,7 @@ public class Class2 {
     
     public void ZhopaInc(int incr){
         zhopa+=incr;
+        System.out.print("Zhopa ="+zhopa);
     }
     
 }
